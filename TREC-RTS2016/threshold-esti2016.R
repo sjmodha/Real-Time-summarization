@@ -1,11 +1,11 @@
 dataDirectory <- "F:/TREC-RTS2016/25617/0.1JM_Rank/"
-#data1 <- read.csv('F:/TREC-RTS2016/25617/0.1JM_Rank/lmodelt.txt', sep=" ")
+#data1 <- read.csv('F:/TREC-RTS2015/25617/0.1JM_Rank/lmodelt.txt', sep=" ")
 #X_2016 <- read.csv('F:/TREC-RTS2016/25617/0.1JM_Rank/lmodelt.txt',sep=' ')
 
-#data1 <- read.csv('F:/TREC-RTS2016/25617/1000dirichlet/lmodelt.txt', sep=" ")
+#data1 <- read.csv('F:/TREC-RTS2015/25617/1000dirichlet/lmodelt.txt', sep=" ")
 #X_2016 <- read.csv('F:/TREC-RTS2016/25617/1000dirichlet/lmodelt.txt',sep=' ')
 
-data1 <- read.csv('F:/TREC-RTS2016/25617/bm25_list/lmodelt.txt', sep=" ")
+data1 <- read.csv('F:/TREC-RTS2015/25617/bm25_list/lmodelt.txt', sep=" ")
 X_2016 <- read.csv('F:/TREC-RTS2016/25617/bm25_list/lmodelt.txt',sep=' ')
 
 
